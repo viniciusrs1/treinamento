@@ -1,0 +1,34 @@
+h2 {
+  margin: 34px 0;
+}
+
+input {
+  height: 45px;
+}
+
+.wrapper-button {
+  display: flex;
+  justify-content: end;
+  margin-bottom: 50px;
+}
+
+button {
+  background: #73fbd2;
+  color: #5b0768;
+  height: 45px;
+}
+
+button:hover {
+  background: #5b0768;
+  color: #73fbd2;
+}
+
+i:not(.fa-trash) {
+  margin-right: 8px;
+}
+
+i {
+  color: black;
+  font-size: 20px;
+  cursor: pointer;
+}
