@@ -1,0 +1,21 @@
+h1 {
+  text-transform: uppercase;
+  font-size: 54px;
+  margin-bottom: 34px;
+}
+
+a {
+  background: #73fbd2;
+  color: #5b0768;
+  border-radius: 5px;
+  padding: 10px 30px;
+  font-weight: 600;
+}
+
+.wrapper-title-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 280px;
+}

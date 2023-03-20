@@ -1,0 +1,9 @@
+.footer-content {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  position: absolute;
+  bottom: 0;
+}
